@@ -1,0 +1,1 @@
+*In linked list you can find the middle element with fast and slow approach
